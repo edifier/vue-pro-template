@@ -1,4 +1,4 @@
-#private-template
+# private-template
 
 ## Usage
 
