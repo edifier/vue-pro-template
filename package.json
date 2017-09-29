@@ -1,0 +1,28 @@
+{
+  "name": "vue-pro-template",
+  "version": "1.0.0",
+  "description": "vue template for production",
+  "main": "index.js",
+  "scripts": {
+    "docs": "cd docs && gitbook serve",
+    "docs:deploy": "bash ./deploy-docs.sh"
+  },
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edifier/vue-pro-template.git"
+  },
+  "keywords": [
+    "vue",
+    "template",
+    "vue-cli"
+  ],
+  "author": "wangxin63",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edifier/vue-pro-template/issues"
+  },
+  "homepage": "https://github.com/edifier/vue-pro-template#readme"
+}
